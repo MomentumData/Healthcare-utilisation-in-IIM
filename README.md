@@ -24,3 +24,5 @@ For the full list of codes:
   - [Inflammatory Myopathy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/af2e2c3c940e90c606a5b6e053d883bed5dd67a2/Conditions/Idiopathic%20Inflammatory%20Myopathies/Other%20Myositis/Inflammatory%20Myopathy)
 - [IIM associated Interstitial Lung Disease](https://github.com/MomentumData/Momentum-Data-Codelists/tree/af2e2c3c940e90c606a5b6e053d883bed5dd67a2/Conditions/ILD%20(Interstitial%20Lung%20Disease)/IIM%20Associated%20ILD) [(ILD)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/af2e2c3c940e90c606a5b6e053d883bed5dd67a2/Conditions/ILD%20(Interstitial%20Lung%20Disease))
  
+### Outcomes
+#### 
