@@ -23,6 +23,36 @@ For the full list of codes:
   - [Myositis - Unspecified](https://github.com/MomentumData/Momentum-Data-Codelists/tree/af2e2c3c940e90c606a5b6e053d883bed5dd67a2/Conditions/Idiopathic%20Inflammatory%20Myopathies/Other%20Myositis/Myositis%20-%20Unspecified)
   - [Inflammatory Myopathy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/af2e2c3c940e90c606a5b6e053d883bed5dd67a2/Conditions/Idiopathic%20Inflammatory%20Myopathies/Other%20Myositis/Inflammatory%20Myopathy)
 - [IIM associated Interstitial Lung Disease](https://github.com/MomentumData/Momentum-Data-Codelists/tree/af2e2c3c940e90c606a5b6e053d883bed5dd67a2/Conditions/ILD%20(Interstitial%20Lung%20Disease)/IIM%20Associated%20ILD) [(ILD)](https://github.com/MomentumData/Momentum-Data-Codelists/tree/af2e2c3c940e90c606a5b6e053d883bed5dd67a2/Conditions/ILD%20(Interstitial%20Lung%20Disease))
+
+---
  
-### Outcomes
-#### 
+### Healthcare utilisation endpoints
+#### Primary Care Consultations
+
+This category includes primary care interactions where the consultation source is recorded as one of the following:
+
+* `Acute visit`
+* `Branch Surgery`
+* `Clinic`
+* `Clinic note`
+* `Conversion`
+* `Emergency consultation`
+* `Enterprise consultation`
+* `Face to face consultation`
+* `GP Surgery`
+* `Home Visit`
+* `Home visit note`
+* `Main Surgery`
+* `Nursing home visit note`
+* `Out of hours, Non Practice`
+* `Seen in GPs surgery`
+* `Seen in Health Centre`
+* `Surgery Attendance`
+* `Surgery consultation`
+* `Telephone`
+* `Telephone call to a patient`
+* `Telephone Consultation`
+* `Telephone encounter`
+* `Treatment Room`
+
+> **Note on Deduplication:** To avoid duplication, multiple interactions occurring within two consecutive days are collapsed and treated as a single consultation event.
