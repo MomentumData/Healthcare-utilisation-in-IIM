@@ -26,8 +26,8 @@ For the full list of codes:
 
 ---
  
-### Healthcare utilisation endpoints
-#### **Primary Care Consultations**
+## Healthcare utilisation endpoints
+### **Primary Care Consultations**
 
 This category includes primary care interactions where the consultation source is recorded as one of the following:
 
@@ -59,7 +59,7 @@ This category includes primary care interactions where the consultation source i
 
 
 
-#### **Outpatient Attendances**
+### **Outpatient Attendances**
 
 Outpatient attendances were identified using Hospital Episode Statistics (HES) Outpatients (OP) records. Appointments where the patient did not attend (DNA) were excluded from the analysis. 
 
@@ -73,18 +73,18 @@ Outpatient appointments were further classified into the following major clinica
 
 
 
-#### **Accident and emergency attendances**
+### **Accident and emergency attendances**
 
 Accident and emergency attendances were identified using HES Accident and Emergency (A&E) records. This dataset includes attendances recorded at major A&E departments, single specialty A&E departments, walk-in centres and minor injury units.
 
 
 
-#### **Hospital Admissions**
+### **Hospital Admissions**
 
 Hospital admissions were identified from HES Admitted Patient Care (APC) data. Each admission was counted as a single entry even if the inpatient spell consisted of multiple episodes of care. Only inpatient spells lasting at least one day were considered.
 
 
 
-#### **Critical care**
+### **Critical care**
 
 Critical care periods were identified from HES Augmented Care Periods (ACP) and HES Critical Care (CC) which are both subsets of HES APC. As per hospital admissions, each critical care spell was counted as a single entry regardless of multiple episodes of critical care.
