@@ -57,6 +57,8 @@ This category includes primary care interactions where the consultation source i
 
 > **Note on Deduplication:** To avoid duplication, multiple interactions occurring within two consecutive days are collapsed and treated as a single consultation event.
 
+
+
 #### **Outpatient Attendances**
 
 Outpatient attendances were identified using Hospital Episode Statistics (HES) Outpatients (OP) records. Appointments where the patient did not attend (DNA) were excluded from the analysis. 
@@ -69,13 +71,19 @@ Outpatient appointments were further classified into the following major clinica
 * **Neurology:** Includes Neurology, Clinical Neurology, Paediatric Neurology, and Neurosurgery.
 * **Other Visits:** Includes all remaining clinical specialisms not listed above.
 
+
+
 #### **Accident and emergency attendances**
 
 Accident and emergency attendances were identified using HES Accident and Emergency (A&E) records. This dataset includes attendances recorded at major A&E departments, single specialty A&E departments, walk-in centres and minor injury units.
 
+
+
 #### **Hospital Admissions**
 
 Hospital admissions were identified from HES Admitted Patient Care (APC) data. Each admission was counted as a single entry even if the inpatient spell consisted of multiple episodes of care. Only inpatient spells lasting at least one day were considered.
+
+
 
 #### **Critical care**
 
