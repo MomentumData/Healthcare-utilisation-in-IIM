@@ -68,3 +68,7 @@ Outpatient appointments were further classified into the following major clinica
 * **Respiratory Medicine**
 * **Neurology:** Includes Neurology, Clinical Neurology, Paediatric Neurology, and Neurosurgery.
 * **Other Visits:** Includes all remaining clinical specialisms not listed above.
+
+#### Accident and emergency attendances
+
+Accident and emergency attendances were identified using HES Accident and Emergency (A&E) records. This dataset includes attendances recorded at major A&E departments, single specialty A&E departments, walk-in centres and minor injury units.
