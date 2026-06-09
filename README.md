@@ -56,3 +56,15 @@ This category includes primary care interactions where the consultation source i
 * `Treatment Room`
 
 > **Note on Deduplication:** To avoid duplication, multiple interactions occurring within two consecutive days are collapsed and treated as a single consultation event.
+
+#### Outpatient Attendances
+
+Outpatient attendances were identified using Hospital Episode Statistics (HES) Outpatients (OP) records. Appointments where the patient did not attend (DNA) were excluded from the analysis. 
+
+Outpatient appointments were further classified into the following major clinical specialisms:
+
+* **Dermatology**
+* **Rheumatology**
+* **Respiratory Medicine**
+* **Neurology:** Includes Neurology, Clinical Neurology, Paediatric Neurology, and Neurosurgery.
+* **Other Visits:** Includes all remaining clinical specialisms not listed above.
