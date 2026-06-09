@@ -72,3 +72,11 @@ Outpatient appointments were further classified into the following major clinica
 #### Accident and emergency attendances
 
 Accident and emergency attendances were identified using HES Accident and Emergency (A&E) records. This dataset includes attendances recorded at major A&E departments, single specialty A&E departments, walk-in centres and minor injury units.
+
+#### Hospital Admissions
+
+Hospital admissions were identified from HES Admitted Patient Care (APC) data. Each admission was counted as a single entry even if the inpatient spell consisted of multiple episodes of care. Only inpatient spells lasting at least one day were considered.
+
+#### Critical care
+
+Critical care periods were identified from HES Augmented Care Periods (ACP) and HES Critical Care (CC) which are both subsets of HES APC. As per hospital admissions, each critical care spell was counted as a single entry regardless of multiple episodes of critical care.
